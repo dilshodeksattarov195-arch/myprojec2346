@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderppdate",
+        "uuid": 16114674,
+        "checksum": "5tu3cv"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
